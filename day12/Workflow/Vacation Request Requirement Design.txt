@@ -1,0 +1,39 @@
+1. Adding Vacation Requested List
+	Custom List : Vacation Requests
+2. Adding New List Columns
+Title(Description) Single line of text - Required
+Request Type (Choice) Required Yes - Dropdown no default
+	Sickness (Personal)
+	Sickness (Family)
+	Personal Vacation
+	Administrative Vacation
+	Compensatory Vacation
+	Jury Duty
+	
+Comments - Multiline of Text not required 3 lines Plain Text
+Start Date - Required - Date Time (Date and Time) 
+End Date - Required - Date Time (Date and Time)
+Total Days - Required - Calculated
+Manager - Person/Group - required
+
+
+3. Create Approval Workflow 
+	
+
+4. Customize the Vacation Request Form 
+Add a content editor webpart in the top of the form and paste the following text 
+
+1. Please submit your Vacation request by completing the form below and attaching any relevant documents
+2. Once submitted, your request will be forwarded for approvers 
+3. Once your request has been approved or rejected, you will receive an email notification 
+
+Bonus Work: Click Here to check number of remaining day's entitlement 
+
+
+
+
+
+
+
+
+
